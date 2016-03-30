@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-30T04:55:42.810Z'
-dateModified: '2016-03-30T04:55:19.911Z'
+datePublished: '2016-03-30T05:07:09.887Z'
+dateModified: '2016-03-30T05:07:09.521Z'
 title: Beauty And The Beard
 author: []
 authors: []
@@ -22,6 +22,8 @@ url: beauty-and-the-beard/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1f7cbb8-b54d-4a93-bd05-17df76f6b6bb.jpg)
+
 # Beauty And The Beard
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33d246d3-a1b5-44e4-9e08-fceed37aaa59.jpg)
 
