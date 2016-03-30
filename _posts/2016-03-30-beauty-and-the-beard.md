@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-30T05:07:09.887Z'
-dateModified: '2016-03-30T05:07:09.521Z'
+datePublished: '2016-03-30T05:09:46.611Z'
+dateModified: '2016-03-30T05:09:46.208Z'
 title: Beauty And The Beard
 author: []
 authors: []
@@ -27,11 +27,11 @@ _type: Article
 # Beauty And The Beard
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33d246d3-a1b5-44e4-9e08-fceed37aaa59.jpg)
 
-Upon entering Legacy Gym for the first time, it's possible to feel intimidated by the intense martial arts atmosphere. But once you meet the duo behind the punching bags, you're immediately put at ease, and once you see women, men and children with bodies of every shape and size, you're ready to join in. 
+Upon entering Legacy Gym for the first time, it's possible to feel intimidated by the intense martial arts atmosphere. But once you meet the duo behind the punching bags, you're immediately put at ease, and once you see women, men and children with bodies of every shape and size, you're ready to join in. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6e088bc-0bfd-4b5e-960b-b141aab43e75.jpg)
 
 "We love to connect and laugh with our clients," says one-half of Beauty & The Beard owner Taylor Wright-Johnson, a.k.a. The Beauty. Her partner and friend, Erin Alejandrino, sits next to her nodding enthusiastically with his masculine scruff, a.k.a. The Beard. These two are a sight to be seen, as rich in confidence as they are in strategizing the future of their gym. Offering new workout routines, meal options and expansion plans, the pair are an unstoppable force. 
 
-A few years ago they met at AmenZone where they were both trainers. They shared a love for working out and grabbing beers afterwards, which soon budded into a business idea, Beauty & The Beard: a fun yet sustainable way to work out. Amen Iseghohi, owner and founder of Amenzone, encouraged them to spread their wings and fly. Soon after they were asked by popular yoga wear titan Lululemon to be ambassadors for the brand. "We're constantly evolving," says beauty Wright-Johnson, "We want this to be fun and therapeutic, not just a physical change, but a mental one as well." Alejandrino agrees: "We want to bring the fun back into fitness." 
+A few years ago they met at AmenZone where they were both trainers. They shared a love for working out and grabbing beers afterwards, which soon budded into a business idea, Beauty & The Beard: a fun yet sustainable way to work out. Amen Iseghohi, owner and founder of Amenzone, encouraged them to spread their wings and fly. Soon after they were asked by popular yoga wear titan Lululemon to be ambassadors for the brand. "We're constantly evolving," says beauty Wright-Johnson, "We want this to be fun and therapeutic, not just a physical change, but a mental one as well." Alejandrino agrees: "We want to bring the fun back into fitness." ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5315596-ccf3-4375-9124-9a91aec05a7b.jpg)
 
 Both discovered their passion for health and fitness at a young age. Alejandrino was just three years old when he started studying martial arts, gaining his love for the discipline through an enthusiastic teacher. "It was having that leader and mentor that was powerful," he shares. "The discipline, self-confidence, overall body control and awareness, there's an honor in martial arts that was something I wanted to carry on in my daily life and pass on to others. Plus, I always wanted to be a ninja," Alejandrino chuckles. The Beard has a down-to-earth yet motivating demeanor, making him seem like the kind of buddy with whom you could bond easily.
 
