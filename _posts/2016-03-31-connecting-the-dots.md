@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Connecting The Dots
-datePublished: '2016-03-31T05:38:58.585Z'
-dateModified: '2016-03-31T05:38:44.547Z'
-title: ''
+description: ''
+datePublished: '2016-03-31T05:43:07.198Z'
+dateModified: '2016-03-31T05:43:03.429Z'
+title: Connecting The Dots
 author: []
 authors: []
 publisher:
@@ -22,11 +22,11 @@ url: connecting-the-dots/index.html
 _type: Article
 
 ---
-Connecting The Dots
+# Connecting The Dots
 
-by Reisha Zang and Kathryn Brooks ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7641987-b705-4026-9ecc-dd53602e725c.jpg)
+by Reisha Zang and Kathryn Brooks 
 
-For decades scientists have struggled with explaining what causes some individuals to be more creative than others. While that still remains a mystery, common traits have been easier to identify. Abilities such as being keen observers of human nature, taking risks, seeking out new experiences and following their true passions top the list. Creative types are innately curious and possess the ability to see possibilities where others don't. They connect the dots that others might never think to connect. With those talents in mind, we introduce four Valley individuals: Gabriele Bertaccini, Terri Camberlango, Lea Cappelli and Teresa Wilson, each making creative connections and impacting our community in their own ways. 
+For decades scientists have struggled with explaining what causes some individuals to be more creative than others. While that still remains a mystery, common traits have been easier to identify. Abilities such as being keen observers of human nature, taking risks, seeking out new experiences and following their true passions top the list. Creative types are innately curious and possess the ability to see possibilities where others don't. They connect the dots that others might never think to connect. With those talents in mind, we introduce four Valley individuals: Gabriele Bertaccini, Terri Camberlango, Lea Cappelli and Teresa Wilson, each making creative connections and impacting our community in their own ways. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7641987-b705-4026-9ecc-dd53602e725c.jpg)
 
 At 13, Chef Gabriele Bertaccini had a job washing pots and pans at a restaurant in Florence, Italy. It wasn't dishwashing that excited him but a love of food that has driven him ever since. "Growing up in Florence and being Italian means food and wine is part of you; it defines who you are," says Bertaccini, executive chef and owner of IL TOCCO and Culinary Mischief. 
 
