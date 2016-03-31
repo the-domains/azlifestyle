@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Upon entering Legacy Gym for the first time, it’s possible to feel intimidated by the intense martial arts atmosphere. But once you meet the duo behind the punching bags, you’re immediately put at ease, and once you see women, men and children with bodies of every shape and size, you’re ready to join in.\_"
-datePublished: '2016-03-31T00:33:35.986Z'
-dateModified: '2016-03-31T00:33:00.710Z'
+description: ''
+datePublished: '2016-03-31T00:36:45.326Z'
+dateModified: '2016-03-31T00:36:44.760Z'
 title: Beauty And The Beard
 author: []
 authors: []
@@ -22,6 +22,8 @@ url: beauty-and-the-beard/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c93e068-6cb6-41d0-95f8-179f25053972.jpg)
+
 # Beauty And The Beard
 
 Upon entering Legacy Gym for the first time, it's possible to feel intimidated by the intense martial arts atmosphere. But once you meet the duo behind the punching bags, you're immediately put at ease, and once you see women, men and children with bodies of every shape and size, you're ready to join in. 
@@ -34,7 +36,7 @@ Both discovered their passion for health and fitness at a young age. Alejandrino
 
 The Beauty went to school for kinesiology and explains it helped her have a deeper understanding of the body. "It's the theory behind everything physically," she shares. "It's the action and the reaction of everything we do at this gym." The Beauty is equally as motivating as her Beard counterpart, sweet in demeanor yet visibly powerful and energetic. 
 
-The pair have a keen grasp on their demographic, selling their Fitbeard Food Prep at three Kaleidoscope Juice locations in and around Scottsdale, as well as in their gym. It's simple and straightforward: not a lot of ingredients, pre-portioned carbs and healthy sauces. Basic greens and vegetables help keep their recipes basic yet consistent. This is the mindset of their clientele: get it done but in a fun way. They both eat the Fitbeard meals daily and say they are delicious. They are their own testers, their own reviewers and their own bosses. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5315596-ccf3-4375-9124-9a91aec05a7b.jpg)
+The pair have a keen grasp on their demographic, selling their Fitbeard Food Prep at three Kaleidoscope Juice locations in and around Scottsdale, as well as in their gym. It's simple and straightforward: not a lot of ingredients, pre-portioned carbs and healthy sauces. Basic greens and vegetables help keep their recipes basic yet consistent. This is the mindset of their clientele: get it done but in a fun way. They both eat the Fitbeard meals daily and say they are delicious. They are their own testers, their own reviewers and their own bosses. 
 
 Starting their own gym meant added responsibility, creating a safe environment and good energy as guests arrive, but they seem very up to this challenge. Their new space on Thomas and Hayden is just three doors down from where they conceptualized their brand. "The reason we chose a mixed martial arts gym is because the fighter's mentality is something that means a lot to us," says Wright-Johnson. "It's a lifestyle. We want to make everybody feel empowered." 
 
