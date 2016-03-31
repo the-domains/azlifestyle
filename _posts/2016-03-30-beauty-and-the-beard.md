@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-31T00:31:49.391Z'
-dateModified: '2016-03-31T00:31:49.168Z'
+description: "Upon entering Legacy Gym for the first time, it’s possible to feel intimidated by the intense martial arts atmosphere. But once you meet the duo behind the punching bags, you’re immediately put at ease, and once you see women, men and children with bodies of every shape and size, you’re ready to join in.\_"
+datePublished: '2016-03-31T00:33:35.986Z'
+dateModified: '2016-03-31T00:33:00.710Z'
 title: Beauty And The Beard
 author: []
 authors: []
