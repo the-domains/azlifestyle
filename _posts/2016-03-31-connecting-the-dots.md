@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-31T06:42:38.775Z'
-dateModified: '2016-03-31T06:42:33.491Z'
-title: ' '
+description: "by Reisha Zang and Kathryn Brooks\_"
+datePublished: '2016-03-31T06:45:09.492Z'
+dateModified: '2016-03-31T06:44:52.998Z'
+title: Connecting The Dots
 author: []
 authors: []
 publisher:
@@ -22,10 +22,12 @@ url: connecting-the-dots/index.html
 _type: Article
 
 ---
-# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6378435c-62ea-4c7d-8668-6e1527a37e94.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a810af93-5432-4c6a-a28c-00041af76e16.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6378435c-62ea-4c7d-8668-6e1527a37e94.jpg)
+
+# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7641987-b705-4026-9ecc-dd53602e725c.jpg)
 
 # Connecting The Dots
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7641987-b705-4026-9ecc-dd53602e725c.jpg)
 
 by Reisha Zang and Kathryn Brooks 
 
