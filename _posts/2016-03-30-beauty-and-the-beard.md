@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-31T00:30:31.732Z'
-dateModified: '2016-03-31T00:30:04.049Z'
+datePublished: '2016-03-31T00:31:49.391Z'
+dateModified: '2016-03-31T00:31:49.168Z'
 title: Beauty And The Beard
 author: []
 authors: []
@@ -22,22 +22,19 @@ url: beauty-and-the-beard/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1f7cbb8-b54d-4a93-bd05-17df76f6b6bb.jpg)
-
 # Beauty And The Beard
 
 Upon entering Legacy Gym for the first time, it's possible to feel intimidated by the intense martial arts atmosphere. But once you meet the duo behind the punching bags, you're immediately put at ease, and once you see women, men and children with bodies of every shape and size, you're ready to join in. 
 
-"We love to connect and laugh with our clients," says one-half of Beauty & The Beard owner Taylor Wright-Johnson, a.k.a. The Beauty. Her partner and friend, Erin Alejandrino, sits next to her nodding enthusiastically with his masculine scruff, a.k.a. The Beard. These two are a sight to be seen, as rich in confidence as they are in strategizing the future of their gym. Offering new workout routines, meal options and expansion plans, the pair are an unstoppable force. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6e088bc-0bfd-4b5e-960b-b141aab43e75.jpg)
+"We love to connect and laugh with our clients," says one-half of Beauty & The Beard owner Taylor Wright-Johnson, a.k.a. The Beauty. Her partner and friend, Erin Alejandrino, sits next to her nodding enthusiastically with his masculine scruff, a.k.a. The Beard. These two are a sight to be seen, as rich in confidence as they are in strategizing the future of their gym. Offering new workout routines, meal options and expansion plans, the pair are an unstoppable force. 
 
 A few years ago they met at AmenZone where they were both trainers. They shared a love for working out and grabbing beers afterwards, which soon budded into a business idea, Beauty & The Beard: a fun yet sustainable way to work out. Amen Iseghohi, owner and founder of Amenzone, encouraged them to spread their wings and fly. Soon after they were asked by popular yoga wear titan Lululemon to be ambassadors for the brand. "We're constantly evolving," says beauty Wright-Johnson, "We want this to be fun and therapeutic, not just a physical change, but a mental one as well." Alejandrino agrees: "We want to bring the fun back into fitness." 
 
 Both discovered their passion for health and fitness at a young age. Alejandrino was just three years old when he started studying martial arts, gaining his love for the discipline through an enthusiastic teacher. "It was having that leader and mentor that was powerful," he shares. "The discipline, self-confidence, overall body control and awareness, there's an honor in martial arts that was something I wanted to carry on in my daily life and pass on to others. Plus, I always wanted to be a ninja," Alejandrino chuckles. The Beard has a down-to-earth yet motivating demeanor, making him seem like the kind of buddy with whom you could bond easily.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5315596-ccf3-4375-9124-9a91aec05a7b.jpg)
 
 The Beauty went to school for kinesiology and explains it helped her have a deeper understanding of the body. "It's the theory behind everything physically," she shares. "It's the action and the reaction of everything we do at this gym." The Beauty is equally as motivating as her Beard counterpart, sweet in demeanor yet visibly powerful and energetic. 
 
-The pair have a keen grasp on their demographic, selling their Fitbeard Food Prep at three Kaleidoscope Juice locations in and around Scottsdale, as well as in their gym. It's simple and straightforward: not a lot of ingredients, pre-portioned carbs and healthy sauces. Basic greens and vegetables help keep their recipes basic yet consistent. This is the mindset of their clientele: get it done but in a fun way. They both eat the Fitbeard meals daily and say they are delicious. They are their own testers, their own reviewers and their own bosses. 
+The pair have a keen grasp on their demographic, selling their Fitbeard Food Prep at three Kaleidoscope Juice locations in and around Scottsdale, as well as in their gym. It's simple and straightforward: not a lot of ingredients, pre-portioned carbs and healthy sauces. Basic greens and vegetables help keep their recipes basic yet consistent. This is the mindset of their clientele: get it done but in a fun way. They both eat the Fitbeard meals daily and say they are delicious. They are their own testers, their own reviewers and their own bosses. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5315596-ccf3-4375-9124-9a91aec05a7b.jpg)
 
 Starting their own gym meant added responsibility, creating a safe environment and good energy as guests arrive, but they seem very up to this challenge. Their new space on Thomas and Hayden is just three doors down from where they conceptualized their brand. "The reason we chose a mixed martial arts gym is because the fighter's mentality is something that means a lot to us," says Wright-Johnson. "It's a lifestyle. We want to make everybody feel empowered." 
 
