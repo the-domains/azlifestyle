@@ -1,6 +1,6 @@
 name: AZLifestyle
 favicon: null
-layout_spectrum: 0.24738
+layout_spectrum: 0.00075
 typography_spectrum: 0.5
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#7b7b7b'
     - '#ffffff'
     - '#afafaf'
-  brandStrength: 0
+  brandStrength: 0.5625
   lightness: 0.5
   saturation: 0.6875
   rhythmicContrast: 0.5
